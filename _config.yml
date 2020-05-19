@@ -74,7 +74,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/site/assets/default-social-image.png" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
@@ -83,7 +83,7 @@ title: "Alembic" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Chromophore Communications offers a broad range of science communication solutions, with particular expertise in biomedical research, scientific writing for non-native speakers of English, and science pedagogy at the high-school and undergraduate level." # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.chromophorecommunications.com" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "site"
 repo: "https://github.com/chromophore-comms/site"
 email: "inquiries@chromophorecommunications.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
