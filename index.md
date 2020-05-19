@@ -1,7 +1,7 @@
 ---
 title: Chromophore Communications
 feature_text: |
-feature_image: "https://github.com/chromophore-comms/site/blob/master/assets/header.jpg"
+feature_image: "https://github.com/chromophore-comms/site/blob/master/assets/header.jpg?raw=true"
 excerpt: "Chromophore Communications offers a broad range of science communication solutions, with particular expertise in biomedical research, scientific writing for non-native speakers of English, and science pedagogy at the high-school and undergraduate level."
 layout: page
 ---
